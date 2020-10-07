@@ -1,0 +1,1 @@
+download over 2018-05-09 02:55:14 +Download Mode ID:1 +Download Mode Str:SMT +software version:CPH1801EX_11_A.08_180414 +download version: V1.5.8 +Net Status:intranet  +Readback Verify:true 
